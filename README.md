@@ -4,4 +4,4 @@
 api.openweather
 ip-api
 
-![screenshot meteo](/screenshot/Capture d’écran 2024-02-19 à 14.07.25.png "screenshot meteo").
+![meteo](https://github.com/eric-pat/meteoAPI/assets/97623282/ee53a815-c8b2-498d-8457-4803e7b155c2)
